@@ -1,1 +1,1 @@
-# CollegePlacementSystem-CPS
+# Quantum-Simulator
